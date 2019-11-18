@@ -166,7 +166,7 @@
 ## 安装
 
 ```shell
-$ git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
+$ git clone https://github.com/mirtok/music.163.git
 $ npm install
 ```
 
